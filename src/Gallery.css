@@ -1,0 +1,19 @@
+*{
+    margin-left: 10px;
+}
+.gallery-title {
+    text-align: center;
+  }
+  
+  .gallery-container {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-right: 10px;
+  }
+  
+
+  
+ 
+  
+  
